@@ -6,7 +6,7 @@
 
 **A responsive, feature-rich scientific calculator built with vanilla HTML, CSS, and JavaScript.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Calculator-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/purnendu2318/calculator)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Calculator-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://purnendu2318.github.io/calculator/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
