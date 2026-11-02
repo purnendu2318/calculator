@@ -91,7 +91,6 @@ The calculator is intentionally dependency-free and currently keeps its applicat
 - Add automated tests for mathematical expressions
 - Improve accessibility and screen-reader support
 - Add optional calculation-history persistence
-- Publish a hosted demo
 
 ## Contributing
 
